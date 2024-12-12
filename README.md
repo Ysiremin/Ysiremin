@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning C# & Unity3D
 -  📫 How to reach me:
 >  Linkedin: https://www.linkedin.com/in/yasireminciftci <br/>
->  Discord: Yashiru#2302
